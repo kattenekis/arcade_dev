@@ -12,5 +12,11 @@ conda create -n arcade  # installera i den nya miljön mha PIP (eller conda om p
 
 nu finns arcade att köra... 
 
+================
+
+bra youtube video med instruktioner:
+
+https://www.youtube.com/watch?v=DAWHMHMPVHU
+
 
 
