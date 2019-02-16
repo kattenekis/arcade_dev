@@ -1,0 +1,16 @@
+
+
+för att installera arcade när man använder Anaconda, gör en virtuell miljö:
+
+
+conda create -n arcade  # skapar en ny virtuell python-miljö
+
+conda create -n arcade  # aktivera den nya miljön
+
+conda create -n arcade  # installera i den nya miljön mha PIP (eller conda om paketet finns där).
+
+
+nu finns arcade att köra... 
+
+
+
