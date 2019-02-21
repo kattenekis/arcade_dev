@@ -7,7 +7,7 @@ conda create -n arcade  # skapar en ny virtuell python-miljö
 
 conda activate arcade   # aktivera den nya miljön
 
-# installera i den nya miljön mha PIP (eller conda om paketet finns där).
+installera i den nya miljön mha PIP (eller conda om paketet finns där).
 
 
 nu finns arcade att köra... 
